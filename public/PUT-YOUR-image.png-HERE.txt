@@ -1,1 +1,0 @@
-Copy your existing image.png from your old portfolio project into this folder and keep the filename exactly image.png.
